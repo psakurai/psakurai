@@ -1,6 +1,7 @@
 ![Drag Racing](https://github.com/psakurai/psakurai/blob/main/assets/md-banner.jpg)
 <h2 align="center">YOWW!</h2>
 <h2 align="center">You've just found my GitHub page!</h2>
+
 - Pronouns: He/Him
 - Self-googling Dev
 - Computer Science student in progress
