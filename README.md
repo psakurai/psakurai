@@ -18,3 +18,4 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psakurai)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
