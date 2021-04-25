@@ -2,21 +2,10 @@
 In the words of Abraham Lincoln:
 > Pardon my French
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+- CS student in progress
+- Self-googling Dev
+- Based in Malaysia
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+Can checkout my [portfolio!](https://psakurai.github.io/arifamiruddin.github.io/).
 
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psakurai&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psakurai&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psakurai&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psakurai&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
