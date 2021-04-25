@@ -1,13 +1,12 @@
-#Welcome! You've just landed on my GitHub page!
+# Welcome! You've just landed on my GitHub page!
 ![Drag Racing](https://github.com/psakurai/psakurai/blob/main/assets/md-banner.jpg)
 
 - CS student in progress
 - Self-googling Dev
 - Based in Malaysia
 
-<div style="text-align: center"> 
 [Discord](https://discord.com/users/%E9%98%BF%E5%93%A9%E5%BC%97#7699)-[Portfolio](https://psakurai.github.io/arifamiruddin.github.io/)
-</div>
+
 boku no chin chin wa chiisai 
 > Sun Tzu, the last samurai
 
