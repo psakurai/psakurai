@@ -1,5 +1,5 @@
 ![Drag Racing](https://github.com/psakurai/psakurai/blob/main/assets/md-banner.jpg)
-# Welcome! You've just landed on my GitHub page!
+# You've just found my GitHub page!
 
 - CS student in progress
 - Self-googling Dev
