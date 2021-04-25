@@ -3,8 +3,7 @@
 - CS student in progress
 - Self-googling Dev
 - Based in Malaysia
-
-Can checkout my [portfolio !](https://psakurai.github.io/arifamiruddin.github.io/).
+[Discord](https://discord.com/users/%E9%98%BF%E5%93%A9%E5%BC%97#7699)-[Portfolio](https://psakurai.github.io/arifamiruddin.github.io/)
 
 boku no chin chin wa chiisai 
 > Sun Tzu, the last samurai
