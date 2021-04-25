@@ -1,4 +1,5 @@
 ![Drag Racing](https://github.com/psakurai/psakurai/blob/main/assets/md-banner.jpg)
+<img align="center" scr="https://github.com/psakurai/psakurai/blob/main/assets/md-banner.jpg"/>
 # You've just found my GitHub page!
 
 - Pronouns: He/Him
