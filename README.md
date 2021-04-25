@@ -1,4 +1,5 @@
 #UNDER CONSTRUUCTION
+![Drag Racing](https://github.com/psakurai/psakurai/blob/main/assets/md-banner.jpg)
 
 - CS student in progress
 - Self-googling Dev
