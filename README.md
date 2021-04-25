@@ -6,7 +6,9 @@
 - Self-googling Dev
 - Computer Science student in progress
 
+<p align="center">
 [Discord](https://discord.com/users/%E9%98%BF%E5%93%A9%E5%BC%97#7699)-[Portfolio](https://psakurai.github.io/arifamiruddin.github.io/)
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=psakurai&count_private=true&show_icons=true&theme=vue" alt="Psakurai GitHub Stat-1"/>
