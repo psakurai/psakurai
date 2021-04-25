@@ -7,7 +7,8 @@
 - Computer Science student in progress
 
 <p align="center">
-[Discord](https://discord.com/users/%E9%98%BF%E5%93%A9%E5%BC%97#7699)-[Portfolio](https://psakurai.github.io/arifamiruddin.github.io/)
+    <a href="https://discord.com/users/%E9%98%BF%E5%93%A9%E5%BC%97#7699">Discord</a> -
+    <a href="https://psakurai.github.io/arifamiruddin.github.io/">Portfolio</a>
 </p>
 
 <p align="center">
